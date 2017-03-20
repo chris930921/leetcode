@@ -7,10 +7,14 @@
 
 # n463 Island Perimeter
 給一個二維陣列，裡面的數值只有 0 或 1，求出 1 面積的邊框數量。
+
 如果 1 的上下左右格子其中一個也是 1，表示該方向無邊框。
 
 # n476 Number Complement
 將數值每個 bit 作 not，要注意比最左邊的 1 更高位元的 0 不做 not，且測資中沒有負數。
+
+# n485 Max Consecutive Ones
+找出陣列中最長的連續的 1，求其包含 1 的數量。
 
 # n496 Next Greater Element I
 1. 宣告 int 陣列 returnNums。
