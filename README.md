@@ -18,6 +18,10 @@
 
 15 的倍數字串替換成 "FizzBuzz"。
 
+## n448 Find All Numbers Disappeared in an Array
+
+假設給一個長度 8 的陣列，找出 1 ~ 8 之中哪個數字沒有出現在陣列中。
+
 ## n455 Assign Cookies
 
 輸入一個 child 陣列，陣列 size 就是 child 數量，每個 value 代表 child 要多大的 cookie 才會滿足 (content)。
@@ -45,6 +49,16 @@
 ## n485 Max Consecutive Ones
 
 找出陣列中最長的連續的 1，求其包含 1 的數量。
+
+## n492 Construct the Rectangle
+
+輸入面積(area)，輸出長寬且符合以下條件。
+
+長寬相乘等於面積(area)。
+
+長度(length)大於等於寬度(width)。
+
+長度和寬度的差(length - width)要最小。
 
 ## n496 Next Greater Element I
 1. 宣告 int 陣列 returnNums。
