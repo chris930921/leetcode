@@ -1,3 +1,7 @@
+## 100. Same Tree
+
+檢查輸入的兩個 binary tree，結構和數值都是否都相同。
+
 ## n167 Two Sum II - Input array is sorted
 
 給一數值 target，從陣列中找出任兩個數值相加等於 target，
