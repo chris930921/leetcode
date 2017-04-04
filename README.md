@@ -22,6 +22,12 @@
 
 假設給一個長度 8 的陣列，找出 1 ~ 8 之中哪個數字沒有出現在陣列中。
 
+## 453. Minimum Moves to Equal Array Elements
+
+輸入一個 int 陣列長度為 n，每一次 move 只能對 n-1 個數字 +1。
+
+輸出最少需要幾次 move，才能使陣列內所有數值相等。
+
 ## n455 Assign Cookies
 
 輸入一個 child 陣列，陣列 size 就是 child 數量，每個 value 代表 child 要多大的 cookie 才會滿足 (content)。
