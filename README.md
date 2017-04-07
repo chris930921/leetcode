@@ -24,6 +24,14 @@
 
 並且回傳數值在陣列中的索引值，回傳陣列大小固定都是 2。
 
+## 169. Majority Element
+
+輸入 int 陣列，輸出哪個數字的出現次數大於 majority。
+
+假設陣列大小是 numsSize，majority 等於 numsSize 除以 2。
+
+輸入未經過排序，而且正負數都會出現。
+
 ## n387 First Unique Character in a String
 
 在字串中找出第一個不重複的字元。
