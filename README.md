@@ -32,6 +32,10 @@
 
 輸入未經過排序，而且正負數都會出現。
 
+## 242. Valid Anagram
+
+輸入字串 s 和字串 t，判斷兩者中的字母、出現次數是否都相同 (Anagram)。
+
 ## n387 First Unique Character in a String
 
 在字串中找出第一個不重複的字元。
