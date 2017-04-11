@@ -1,3 +1,9 @@
+## 13. Roman to Integer
+
+將羅馬數字的字串轉為數值。
+
+例如 VI = 6、VIII = 8、XII = 12。
+
 ## 100. Same Tree
 
 檢查輸入的兩個 binary tree，結構和數值都是否都相同。
