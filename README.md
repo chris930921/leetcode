@@ -8,6 +8,14 @@
 
 檢查輸入的兩個 binary tree，結構和數值都是否都相同。
 
+108. Convert Sorted Array to Binary Search Tree
+
+把已排序的陣列轉換成平衡二元樹。
+
+如果是偶數長度陣列 [0, 1, 2, 3]，中間點為 1。
+
+如果是奇數長度陣列 [0, 1, 2, 3, 4]，中間點為 2。
+
 ## 122. Best Time to Buy and Sell Stock II
 
 輸入 int  陣列代表一連串的股票價格，並且依照時間排序。
